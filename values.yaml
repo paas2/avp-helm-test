@@ -1,2 +1,2 @@
 test:
-  secretPath: sahab2-kv/data/GitHub
+  secretPath: test-kv/data/TestPath 
